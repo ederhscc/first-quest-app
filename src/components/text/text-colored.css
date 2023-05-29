@@ -1,5 +1,6 @@
 .container-paragraph {
     max-width: 700px;
+    display: flex;    
     text-align: justify;
 }
 .paragraph {
