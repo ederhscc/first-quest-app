@@ -1,0 +1,8 @@
+.container-paragraph {
+    max-width: 700px;
+    text-align: justify;
+}
+.paragraph {
+    font-size: 20px;
+    line-height: 35px;
+}
